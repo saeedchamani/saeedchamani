@@ -45,80 +45,6 @@ My research experience spans medical image segmentation, radiomics, deep learnin
 
 ---
 
-## 🚀 Selected Projects
-
-### Production Text Classification System
-
-End-to-end NLP system for **27-class customer support intent classification**.
-
-`Python` `Scikit-learn` `TF-IDF` `Linear SVM` `FastAPI` `Pytest` `Docker`
-
-- Compared multiple classical ML models
-- Achieved approximately **99.3% weighted F1** on the Bitext dataset
-- Added calibrated prediction confidence
-- Built a REST API using FastAPI
-- Added automated testing with Pytest
-- Benchmarked local inference latency
-- Containerized the inference service using Docker
-
-[View Repository](https://github.com/saeedchamani/production-text-classification-system)
-
----
-
-### Multi-Region Person Tracking & Re-Identification
-
-Global person tracking and re-identification pipeline using:
-
-`YOLO` `BoT-SORT` `OSNet` `Pose Estimation`
-
----
-
-### Advanced Traffic Video Analytics
-
-Multi-object traffic analysis using:
-
-`YOLOv8` `DeepSORT` `ByteTrack` `Ultralytics`
-
----
-
-### Automatic Number Plate Recognition
-
-Vehicle tracking and license plate recognition pipeline using:
-
-`YOLOv8` `EasyOCR` `DeepSORT`
-
----
-
-### Autonomous Driving Perception
-
-Computer vision experiments on the KITTI dataset using:
-
-`YOLOv8` `Object Detection` `Autonomous Driving`
-
----
-
-### Medical Image Segmentation
-
-Implementation and experimentation with architectures including:
-
-`U-Net` `UNETR` `Swin-Unet` `U-Net++` `U-Net3+`
-
-Applied to medical imaging tasks involving MRI, CT, PET/CT, ultrasound, and tumor segmentation.
-
----
-
-### Biomedical Signal Processing
-
-Projects involving:
-
-- EEG preprocessing and classification
-- Schizophrenia classification using ML/DL
-- Sleep stage prediction
-- Brain source reconstruction
-- Beamforming
-- BCI signal processing
-
----
 
 ## 🛠️ Technical Stack
 
@@ -149,16 +75,7 @@ Projects involving:
 
 ---
 
-## 🏆 Highlights
 
-- Top-ranked M.Sc. student in Bioelectric Engineering at Iran University of Science and Technology
-- Ranked within the **top 1%** in the national Master's university entrance examination
-- Ranked within the **top 2%** in the national Bachelor's university entrance examination
-- Published research in **Scientific Reports**
-- Published research in **Machine Learning with Applications**
-- Experience across biomedical AI, computer vision, signal processing, and production ML
-
----
 
 ## 📊 GitHub Statistics
 
