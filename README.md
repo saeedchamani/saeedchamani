@@ -24,7 +24,6 @@ My work focuses on building intelligent systems that connect **research-grade AI
 
 ## 💼 Current Work
 
-- **AI Developer & Core Team Member** at **HooshStyle**, working on an AI-powered virtual try-on platform
 - Developing practical AI and computer vision systems
 - Building production-oriented ML projects with APIs, testing, containerization, and reproducible workflows
 - Continuing research in medical imaging, deep learning, and intelligent vision systems
